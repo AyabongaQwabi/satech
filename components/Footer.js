@@ -27,6 +27,9 @@ export default function Footer() {
               <li>
                 <Link href="/#book-consultation">Book Consultation</Link>
               </li>
+                          <li>
+                <Link href="/about-developer" className="hover:text-current transition-colors">About the developer</Link>
+              </li>
             </ul>
           </div>
           <div>

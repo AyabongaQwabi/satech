@@ -1,5 +1,4 @@
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://satechdstv.ayabonga.com',
-  generateRobotsTxt: true, // (optional)
-  // ...other options
+  siteUrl: process.env.SITE_URL || 'https://satech.qwabi.co.za',
+  generateRobotsTxt: true,
 };

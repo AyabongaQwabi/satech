@@ -1,0 +1,30 @@
+{
+  "name": "SA Tech DStv Installers",
+  "short_name": "SA",
+  "description": "SA Tech provides DStv installation, TV wall mounting, repairs, and signal support in Queenstown and nearby areas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Contact",
+      "url": "/contact",
+      "description": "Contact SA Tech DStv Installers"
+    },
+    {
+      "name": "About the developer",
+      "url": "/about-developer",
+      "description": "Learn about Ayabonga Qwabi"
+    }
+  ]
+}
